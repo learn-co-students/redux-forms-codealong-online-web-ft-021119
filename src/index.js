@@ -13,3 +13,5 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
 );
+
+//Provider allows us access when we connect our components
